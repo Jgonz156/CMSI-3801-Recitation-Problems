@@ -1,0 +1,19 @@
+{
+  "name": "changemaker",
+  "version": "1.0.0",
+  "description": "This is the codebase responsible for holding the javascript solution to the changemaker problem.",
+  "main": "changeMaker.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module",
+  "keywords": [
+    "greedy"
+  ],
+  "author": "Julian Gonzalez",
+  "license": "MIT",
+  "dependencies": {
+    "c8": "^8.0.1",
+    "mocha": "^10.2.0"
+  }
+}
