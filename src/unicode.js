@@ -1,0 +1,2 @@
+let a = "🏄‍♀️"
+console.log()
